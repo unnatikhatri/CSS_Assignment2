@@ -31,6 +31,7 @@ height:290px;
 background-color:yellow;
 background-image:url("Assignment-2-img-1.jpg");
 border:5px solid yellow;
+background-size: contain;
 }
 #p3{
 color:white;
